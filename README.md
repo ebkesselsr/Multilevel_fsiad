@@ -10,7 +10,6 @@ The files:
 
 -EB82 Multilevel Analysis Section 3.1.sav
 -EB82 Multilevel Analysis Section 3.2. and 3.3.sav
--EB82 Multilevel Analysis Section 4.sav
 These are the different data files used. 
 
 -Rcode_Analyses Multilevel analyses of on-demand medication data.r
