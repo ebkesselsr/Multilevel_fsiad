@@ -9,8 +9,8 @@ The data files are .sav (SPSS) data that are loaded in R (freely available softw
 The files:
 
 -EB82 Multilevel Analysis Full Data.sav
--EB82 Multilevel Analysis Section 3.1.sav
--EB82 Multilevel Analysis Section 3.2. - 3.4.sav
+-EB82 Multilevel Analysis Section 3.1.1.sav
+-EB82 Multilevel Analysis Section 3.1.2 - 3.2 - 3.3.sav
 These are the different data files used. 
 
 -Rcode_Analyses Multilevel analyses of on-demand medication data.r
